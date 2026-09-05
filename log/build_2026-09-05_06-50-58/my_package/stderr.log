@@ -1,0 +1,5 @@
+  File "/home/insane/ros2_ws/install/my_package/lib/python3.12/site-packages/my_package/my_node.py", line 16
+    finally
+           ^
+SyntaxError: expected ':'
+
